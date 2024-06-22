@@ -4,11 +4,11 @@ A simple theme for [rofi](https://github.com/davatorium/rofi).
 
 ![Image](image.png)
 
-## Install
+## Installation
 
-Install the theme by cloning the repository to the directory *~/.config/rofi*
+Install the theme by cloning the repository to the directory *~/.config/rofi*.
 
-	mkdir $HOME/.config/rofi
-	git clone https://github.com/theroneyv/simple-rofi.git $HOME/.config/rofi
+	mkdir ~/.config/rofi
+	git clone https://github.com/theroneyv/simple-rofi.git ~/.config/rofi
 
-
+Or manually download the **simple.rasi** file and put it in your rofi themes directory.
