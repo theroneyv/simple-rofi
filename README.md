@@ -10,5 +10,3 @@ Install the theme by cloning the repository to the directory *~/.config/rofi*.
 
 	mkdir ~/.config/rofi
 	git clone https://github.com/theroneyv/simple-rofi.git ~/.config/rofi
-
-Or manually download the **simple.rasi** file and put it in your rofi themes directory.
